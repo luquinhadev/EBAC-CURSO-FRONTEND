@@ -12,7 +12,7 @@ const alunos = [
         nome: 'Erderson', nota: 6
     },
     {
-        nome: 'Gian', nota: 4
+        nome: 'Giann', nota: 4
     },
 ];
 
